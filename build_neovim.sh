@@ -33,9 +33,9 @@ sudo make install
 
 cd ~
 
-###### TODO
 # Get .nvimrc 
-# new Name and place!!!!!: .config/nvim/init.vim
+cd ~/.config/nvim/
+wget https://github.com/nils-gg/vim/blob/master/init.vim
 
 # Install NeoBundle plugin manager for NeoVIM
 mkdir -p ~/.vim/bundle
