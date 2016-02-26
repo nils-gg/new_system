@@ -1,13 +1,24 @@
 # New System
-This document guides you through the installation of my personal laptop setup.
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [New System](#new-system)
+	- [Download Needed Scripts](#download-needed-scripts)
 	- [Enable Umlaut Typing](#enable-umlaut-typing)
 	- [Installing Base-System](#installing-base-system)
 	- [Compile NeoVIM with YouCompleteMe](#compile-neovim-with-youcompleteme)
 
 <!-- /TOC -->
+
+## Download Needed Scripts
+Download and unpack folder
+
+```
+$ wget https://github.com/nils-gg/new_system/archive/master.zip
+```
+
+```
+$ unzip master.zip
+```
 
 ## Enable Umlaut Typing
 This information is taken from the article [Linux and Umlaut Typing](http://idolinux.blogspot.se/2009/02/linux-and-umlaut-typing.html?view=classic) by Gavin Burris, posted Feb. 2009.
