@@ -6,6 +6,11 @@
 	- [Enable Umlaut Typing](#enable-umlaut-typing)
 	- [Installing Base-System](#installing-base-system)
 	- [Compile NeoVIM with YouCompleteMe](#compile-neovim-with-youcompleteme)
+	- [Change to ZSH](#change-to-zsh)
+		- [oh-my-zsh](#oh-my-zsh)
+		- [zsh-syntax-highlighting](#zsh-syntax-highlighting)
+		- [z](#z)
+		- [.zshrc](#zshrc)
 
 <!-- /TOC -->
 
@@ -103,7 +108,7 @@ $ curl -L http://install.ohmyz.sh | sh
 
 ### zsh-syntax-highlighting
 ```
-$ cd ~/.oh-my-zsh && git clone git://github.com/zsh-users/zsh-syntax-highlighting.git 
+$ cd ~/.oh-my-zsh && git clone git://github.com/zsh-users/zsh-syntax-highlighting.git
 ```
 
 ```
