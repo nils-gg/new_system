@@ -88,3 +88,28 @@ $ ./build_neovim.sh
 ```
 
 I tend to also use this script to update NeoVim and YouCompleteMe.
+
+## Change to ZSH
+This part is inspired and influenced by the article [Badassify your terminal and shell](http://jilles.me/badassify-your-terminal-and-shell/) by Jilles Soeters, posted November 2014
+
+```
+$ chsh -s `which zsh`
+```
+
+### oh-my-zsh
+```
+$ curl -L http://install.ohmyz.sh | sh
+```
+
+### zsh-syntax-highlighting
+```
+$ cd ~/.oh-my-zsh && git clone git://github.com/zsh-users/zsh-syntax-highlighting.git 
+```
+
+```
+$ source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+```
+
+### z
+
+### .zshrc
