@@ -86,3 +86,5 @@ Be sure to change $LLVM and $LLVM2 to the latest clang+llvm version in the begin
 ```
 $ ./build_neovim.sh
 ```
+
+I tend to also use this script to update NeoVim and YouCompleteMe.
